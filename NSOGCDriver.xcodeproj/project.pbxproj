@@ -13,6 +13,7 @@
 		1992113F305DBFE100EDA977 /* VirtualGamepad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19921138305DBFE100EDA977 /* VirtualGamepad.swift */; };
 		19921140305DBFE100EDA977 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19921132305DBFE100EDA977 /* Assets.xcassets */; };
 		19921142305DC04700EDA977 /* NSOGCDriverApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19921141305DC04700EDA977 /* NSOGCDriverApp.swift */; };
+		B00000000000000000000001 /* ProductFeatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000002 /* ProductFeatures.swift */; };
 		A00000000000000000000007 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = A00000000000000000000019 /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		19921137305DBFE100EDA977 /* NSOUSB.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = NSOUSB.c; sourceTree = "<group>"; };
 		19921138305DBFE100EDA977 /* VirtualGamepad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtualGamepad.swift; sourceTree = "<group>"; };
 		19921141305DC04700EDA977 /* NSOGCDriverApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSOGCDriverApp.swift; sourceTree = "<group>"; };
+		B00000000000000000000002 /* ProductFeatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductFeatures.swift; sourceTree = "<group>"; };
 		A00000000000000000000010 /* NSOGCDriver.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NSOGCDriver.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A00000000000000000000019 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
@@ -50,6 +52,7 @@
 				19921137305DBFE100EDA977 /* NSOUSB.c */,
 				19921138305DBFE100EDA977 /* VirtualGamepad.swift */,
 				19921141305DC04700EDA977 /* NSOGCDriverApp.swift */,
+				B00000000000000000000002 /* ProductFeatures.swift */,
 			);
 			path = NSOGCDriver;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				1992113E305DBFE100EDA977 /* Driver.swift in Sources */,
 				1992113F305DBFE100EDA977 /* VirtualGamepad.swift in Sources */,
 				19921142305DC04700EDA977 /* NSOGCDriverApp.swift in Sources */,
+				B00000000000000000000001 /* ProductFeatures.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
